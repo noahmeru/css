@@ -1,0 +1,35 @@
+.coachtech{
+  color: rgb(16, 74, 199);
+}
+.button{
+  color: rgb(16, 74, 199);
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  top: -50px;
+}
+.button1{
+  padding-left: 10px;
+}
+.everyday{
+  margin-bottom: -10px;
+}
+
+.smile{
+  height: 100px;
+  width: 500px;
+  background-color: rgb(15, 27, 191);
+  position: absolute;
+}
+.img{
+  display: flex;
+  justify-content: end;
+}
+
+img{
+  height: 300px;
+  width: auto;
+}
+.everydaysmile{
+  margin: -100px 0 0 0;
+}
